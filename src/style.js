@@ -30,7 +30,7 @@ export const GlobalStyle = createGlobalStyle`
 		line-height: 1;
 	}
 	html, body{
-		background: yellow;
+		background: #777788;
 	}
 	ol, ul {
 		list-style: none;
