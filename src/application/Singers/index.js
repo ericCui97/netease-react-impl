@@ -1,5 +1,5 @@
 import Horizen from "../../baseUI/horizen-item";
-import Scroll from "../../baseUI/scroller";
+import Scroll from "../../baseUI/scroll";
 import React, { useState, useEffect } from "react";
 import { categoryTypes, alphaTypes } from "../../api/config";
 import { NavContainer, ListContainer, List, ListItem } from "./style";
